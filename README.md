@@ -3,7 +3,15 @@
 ## 🚗🔋⚡️ Sr. Controls Engineer @ Tesla: Accelerating the world's transition to sustainable energy.
 ### From **automation → intelligence → transformation**.
 
-I design and build systems that are meant to **work in the real world**.
+---
+
+### ⚡ Motto
+Build systems that **work together**,
+are **designed on purpose**,
+and **age well over time**.
+From circuits to code ⚡
+
+Enjoy to design and build systems that are meant to **work in the real world**.
 Factory floors, robots, PLCs, data pipelines, AI models.
 From circuits to code. From systems to outcomes.
 
@@ -48,11 +56,3 @@ It’s **engineering solutions that scale, endure, and deliver results**.
 - 💼 LinkedIn: https://www.linkedin.com/in/luisgss10
 - 🌍 Website: https://luisgss10.com
 - ✉️ Email: luisgss10@hotmail.com
-
----
-
-### ⚡ Personal rule
-Build systems that **work together**,
-are **designed on purpose**,
-and **age well over time**.
-From circuits to code ⚡
