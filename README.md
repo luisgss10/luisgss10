@@ -1,6 +1,7 @@
 # **Luis Sánchez**  
 ## ⚙️🤖🌐 *Where smart machines meet smarter minds*
-## 🚗🔋⚡️ Sr. Controls Engineer @ Tesla: Accelerating the world's transition to sustainable energy.
+## 🚗🔋⚡️ Sr. Controls Engineer @ Tesla:
+Accelerating the world's transition to sustainable energy.
 ### From **automation → intelligence → transformation**.
 
 ---
